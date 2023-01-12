@@ -1,0 +1,25 @@
+{
+  "name": "strapi-flutter",
+  "version": "1.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "strapi-flutter",
+    "description": "Description of Strapi Flutter plugin",
+    "kind": "plugin",
+    "displayName": "Strapi Flutter"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "maintainers": [
+    {
+      "name": "A Strapi developer"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
